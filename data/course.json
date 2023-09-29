@@ -1,0 +1,48 @@
+{
+  "term": "Spring",
+  "year": "2009",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Quantum Mechanics"
+    ],
+    [
+      "Health and Medicine",
+      "Spectroscopy"
+    ]
+  ],
+  "legacy_uid": "d4861d37-6ba9-b777-d65d-85e472c3b293",
+  "instructors": {
+    "content": [
+      "b3a30a54-8cc4-7fa6-2ffc-75707b9270f0"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "7de906d3-0389-1bb0-d15b-fb4e75da6434",
+    "website": "5-74-introductory-quantum-mechanics-ii-spring-2009"
+  },
+  "course_title": "Introductory Quantum Mechanics II",
+  "course_description": "This course covers topics in time-dependent quantum mechanics, spectroscopy, and relaxation, with an emphasis on descriptions applicable to condensed phase problems and a statistical description of ensembles.\n",
+  "department_numbers": [
+    "5"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "5.74",
+  "course_image_thumbnail": {
+    "content": "4704c06b-2afa-d459-32c4-2ccf1d7e5bda",
+    "website": "5-74-introductory-quantum-mechanics-ii-spring-2009"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes",
+    "Lecture Videos"
+  ],
+  "site_uid": "a9591b8e-6902-4fc0-a8b4-edc420123021",
+  "site_short_id": "5.74-spring-2009",
+  "title": "Course Metadata"
+}
